@@ -1,0 +1,7 @@
+1.	Introdução ao Git e ao GitHub (recomendado)
+Foi explicado sobre a importância do git;
+Como fazer a instalação do git;
+Comandos básicos do git;
+Como inicia o git (Git ini) e como cria commits com comentário (git commit -m "comentario")
+Ciclo de vida do Git
+Como resolver os conflitos
